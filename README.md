@@ -1,5 +1,5 @@
 # About me
-Hey there, I'm a developer who likes to waste time and also uses an iPad to code. I also like cereal
+Hey there, I'm a developer who likes to waste time and also used to use an iPad to code (it was terrible). I also quite like cereal
 
 # Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
