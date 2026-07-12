@@ -4,13 +4,14 @@ Hey there, I'm a developer who codes for fun and who started with an iPad and Sw
 ## Languages I know
 - Scratch
 - Python
-- JavaScript
+- JavaScript & TypeScript
 - HTML & CSS
 
 ## Languages I'm Learning
 - Java
 - Swift
 - C & C#
+- Lua
 
 # Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
